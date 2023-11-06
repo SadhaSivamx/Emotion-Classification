@@ -6,4 +6,8 @@ Emotion classification using the Naïve Bayes algorithm to categorize text or da
 
 ### References
 
- - This code is built over from the knowledege that i got from the  [CodeBasics NLP tutorial ](https://www.youtube.com/watch?v=Yt1Sw6yWjlw)
+ - This code is built over from the knowledge that i got from the  [CodeBasics NLP tutorial ](https://www.youtube.com/watch?v=Yt1Sw6yWjlw)
+
+### Output 
+
+![Project-Template (2)](https://github.com/SadhaSivamx/Emotion-Classification/assets/106687593/45346948-2bf9-4959-8bc5-cdeaddfdff37)
